@@ -115,8 +115,6 @@ Understanding and identifying design properties from a mockup design is essentia
 4. **Collaboration:** Facilitates seamless communication between designers and developers, ensuring that the implementation matches the design vision.  
 5. **Scalability:** Establishes a foundation for future updates or extensions by maintaining a clear and reusable design system.  
 
-By exploring the Figma environment, developers gain insight into the detailed structure of mockups, enabling them to translate designs into functional, visually appealing interfaces with precision.
-
 ---
 
 ### **Project Roles and Responsibilities**
@@ -205,4 +203,81 @@ In any successful project, defining roles and responsibilities is essential to e
 
 ---
 
-Each role plays a critical part in the success of the AirBnB Clone Project, ensuring that it is delivered on time, meets high-quality standards, and provides a superior user experience.
+### **UI Component Patterns**
+
+UI components form the building blocks of the AirBnB Clone project, ensuring reusability, consistency, and efficiency in development. Below is a description of the planned components and their roles in the application.
+
+---
+
+#### **1. Navbar**
+- **Description:**
+  - A responsive navigation bar that provides access to key sections of the app, such as **Home**, **Explore**, **Bookings**, and **Profile**.
+  - Includes a logo, search bar, and user menu with options for login/logout and account settings.
+- **Purpose:**
+  - Enhance usability by enabling easy navigation across pages.
+  - Provide a cohesive and branded look at the top of every page.
+
+---
+
+#### **2. Property Card**
+- **Description:**
+  - A card component to display property details, including:
+    - **Image**: Showcasing the property.
+    - **Title**: Highlighting the property name.
+    - **Price**: Displaying nightly rates.
+    - **Rating**: Showing user reviews.
+  - Includes a "Favorite" icon for saving properties and a "View Details" button for more information.
+- **Purpose:**
+  - Visually organize and present property listings in a clean and user-friendly manner.
+  - Allow users to quickly browse and interact with properties.
+
+---
+
+#### **3. Footer**
+- **Description:**
+  - A footer located at the bottom of the page with:
+    - Links to **Terms & Conditions**, **Privacy Policy**, and **Help Center**.
+    - Social media icons for platforms like Twitter, Facebook, and Instagram.
+    - Copyright notice and additional brand information.
+- **Purpose:**
+  - Provide supplemental navigation and important legal or contact information.
+  - Enhance the professional appearance of the application.
+
+---
+
+#### **4. Search Bar**
+- **Description:**
+  - A dynamic search bar that allows users to input filters such as location, date, and number of guests.
+  - Includes an autocomplete feature for location suggestions.
+- **Purpose:**
+  - Streamline the property search process, making it quick and intuitive for users to find what they need.
+
+---
+
+#### **5. Booking Summary Card**
+- **Description:**
+  - A compact card to display a summary of the selected booking, including:
+    - Property details (title and image).
+    - Check-in and check-out dates.
+    - Total cost breakdown.
+  - Includes a "Proceed to Payment" button.
+- **Purpose:**
+  - Keep users informed about their selections and guide them seamlessly through the booking process.
+
+---
+
+#### **6. Button Components**
+- **Description:**
+  - Reusable buttons styled for various actions, such as:
+    - **Primary Buttons**: For important actions like "Book Now" and "Sign In."
+    - **Secondary Buttons**: For less critical actions like "Cancel" and "Learn More."
+- **Purpose:**
+  - Maintain design consistency across the app and improve the user experience through visual hierarchy.
+
+---
+
+#### **Importance of Component Patterns**
+1. **Reusability:** Reduces code duplication and enhances maintainability.
+2. **Consistency:** Ensures uniformity in design and functionality across pages.
+3. **Scalability:** Simplifies the process of adding new features or pages.
+4. **User Experience:** Enhances navigation and interaction by providing intuitive and predictable elements.
