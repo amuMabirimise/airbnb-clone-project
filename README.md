@@ -75,3 +75,46 @@ In a booking system, user-friendly design is crucial because:
 By prioritizing UI/UX design, this project aims to create an experience that meets user expectations and drives satisfaction.
 
 ---
+
+### **More UI/UX Design Planning**
+#### **Color Styles**
+- **Primary Color:** #091138 (Dark Navy)
+- **Secondary Color:** #0088a9 (Teal)
+- **Background Color:** #ADD8E6 (Light Blue)
+- **Box Background:** #2A52BE (Deep Blue)
+- **Text Color:** 
+  - Primary: #FFFFFF (White)
+  - Secondary: #26619c (Dark Blue)
+
+#### **Typography**
+- **Font Family:** 
+  - Montserrat (sans-serif)
+  - Shrikhand (cursive)
+  - Alfa Slab One (cursive)
+  - Bangers (cursive)
+- **Font Weights:**
+  - Montserrat: 500 (Medium)
+  - Shrikhand: 700 (Bold)
+  - Alfa Slab One: 400 (Regular)
+  - Bangers: 400 (Regular)
+- **Font Sizes:** 
+  - **Logo Text:** 36px
+  - **Navigation Links:** 25px
+  - **Hero Title (H1):** 50px
+  - **Hero Subtitle (H2):** 45px
+  - **Service Section Headings:** 65px
+  - **Button Text:** 25px
+  - **Service Box Text:** 25px
+  - **Body Text:** 16px
+
+#### **Importance of Identifying Design Properties**
+Understanding and identifying design properties from a mockup design is essential because:
+1. **Consistency:** Ensures that all pages follow a unified design approach, maintaining a cohesive visual identity.  
+2. **Efficiency:** Provides developers with clear guidelines, reducing time spent interpreting designs and minimizing errors.  
+3. **User Experience:** Enhances usability and accessibility by adhering to best practices in layout, color contrast, and typography.  
+4. **Collaboration:** Facilitates seamless communication between designers and developers, ensuring that the implementation matches the design vision.  
+5. **Scalability:** Establishes a foundation for future updates or extensions by maintaining a clear and reusable design system.  
+
+By exploring the Figma environment, developers gain insight into the detailed structure of mockups, enabling them to translate designs into functional, visually appealing interfaces with precision.
+
+---
