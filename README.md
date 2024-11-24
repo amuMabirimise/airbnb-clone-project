@@ -118,3 +118,91 @@ Understanding and identifying design properties from a mockup design is essentia
 By exploring the Figma environment, developers gain insight into the detailed structure of mockups, enabling them to translate designs into functional, visually appealing interfaces with precision.
 
 ---
+
+### **Project Roles and Responsibilities**
+
+In any successful project, defining roles and responsibilities is essential to ensure clarity, accountability, and seamless collaboration. Below are the key roles involved in the AirBnB Clone Project and their primary responsibilities:
+
+---
+
+#### **1. Project Manager**
+- **Responsibilities:**
+  - Oversee the entire project lifecycle, from planning to delivery.
+  - Set timelines, allocate resources, and manage risks.
+  - Facilitate communication among team members and stakeholders.
+  - Ensure the project stays on track and aligns with goals.
+- **Contribution:** Acts as the glue that holds the project together, ensuring smooth operations and timely delivery.
+
+---
+
+#### **2. Frontend Developers**
+- **Responsibilities:**
+  - Design and implement the user interface using technologies like HTML, CSS, and React.
+  - Integrate APIs for dynamic data rendering.
+  - Ensure responsive and accessible design for all devices.
+  - Collaborate with designers to bring mockups to life.
+- **Contribution:** Create an intuitive and visually appealing interface that enhances user experience.
+
+---
+
+#### **3. Backend Developers**
+- **Responsibilities:**
+  - Build and maintain the server-side logic using Node.js and Express.js.
+  - Design and implement APIs to connect the frontend with the database.
+  - Ensure the security and scalability of the backend systems.
+  - Debug and optimize backend performance.
+- **Contribution:** Develop the backbone of the application, enabling smooth data processing and communication.
+
+---
+
+#### **4. Designers**
+- **Responsibilities:**
+  - Create mockups and wireframes to visualize the app’s layout.
+  - Define color schemes, typography, and UI components.
+  - Collaborate with developers to ensure design feasibility.
+  - Conduct user research to refine designs based on feedback.
+- **Contribution:** Craft the visual identity of the project, ensuring an engaging and user-friendly design.
+
+---
+
+#### **5. QA/Testers**
+- **Responsibilities:**
+  - Write and execute test cases for frontend, backend, and integrations.
+  - Identify bugs and collaborate with developers to resolve them.
+  - Ensure the application meets quality standards and user expectations.
+  - Conduct performance and usability testing.
+- **Contribution:** Guarantee a robust and error-free product that provides a seamless user experience.
+
+---
+
+#### **6. DevOps Engineers**
+- **Responsibilities:**
+  - Set up and maintain CI/CD pipelines for smooth deployments.
+  - Monitor server performance and uptime.
+  - Automate processes to enhance efficiency.
+  - Ensure the security and scalability of the deployed application.
+- **Contribution:** Enable a reliable and efficient deployment process, ensuring the app is always accessible to users.
+
+---
+
+#### **7. Product Owner**
+- **Responsibilities:**
+  - Define the project vision and goals based on stakeholder needs.
+  - Prioritize features and maintain the product backlog.
+  - Provide feedback during development to ensure alignment with requirements.
+  - Represent the end-users’ perspective throughout the project.
+- **Contribution:** Acts as the voice of the customer, ensuring the project delivers maximum value.
+
+---
+
+#### **8. Scrum Master**
+- **Responsibilities:**
+  - Facilitate Agile ceremonies, such as sprint planning, reviews, and retrospectives.
+  - Remove obstacles that hinder team progress.
+  - Foster a collaborative and efficient work environment.
+  - Ensure adherence to Agile principles and practices.
+- **Contribution:** Helps the team stay focused and productive by promoting an Agile mindset.
+
+---
+
+Each role plays a critical part in the success of the AirBnB Clone Project, ensuring that it is delivered on time, meets high-quality standards, and provides a superior user experience.
